@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
+- 👨‍💻 All of my projects are available at [https://noyon-podder.netlify.app/](https://noyon-podder.netlify.app/)
+
 - 💬 Ask me about **any question about MERN related**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r3LljW6zEiNGifcHPZa_Royzv-3kQukj/view?usp=sharing](https://drive.google.com/file/d/1r3LljW6zEiNGifcHPZa_Royzv-3kQukj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
