@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://res.cloudinary.com/dszc3cimc/image/upload/v1729448097/Hi_I_m_Noyon_st5ecc.png" alt="noyon-podder" /> </p>
+ <img src="https://res.cloudinary.com/dszc3cimc/image/upload/v1729448097/Hi_I_m_Noyon_st5ecc.png" alt="noyon-podder" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noyon-podder&label=Profile%20views&color=0e75b6&style=flat" alt="noyon-podder" /> </p>
 
 
