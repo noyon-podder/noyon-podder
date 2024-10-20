@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noyon-podder&label=Profile%20views&color=0e75b6&style=flat" alt="noyon-podder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noyon-podder" alt="noyon-podder" /></a> </p>
+
 
 - 🔭 I’m currently working on **Traveller Website**
 
