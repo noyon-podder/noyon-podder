@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noyon Podder</h1>
-<h3 align="center">A passionate Front End Developer from Bangladesh</h3>
-
+<p align="left"> <img src="https://res.cloudinary.com/dszc3cimc/image/upload/v1729448097/Hi_I_m_Noyon_st5ecc.png" alt="noyon-podder" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noyon-podder&label=Profile%20views&color=0e75b6&style=flat" alt="noyon-podder" /> </p>
 
 
