@@ -22,6 +22,10 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
 
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning MySql & Postgress
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Next/React/Express
+- 👨‍💻 &nbsp;Read more about my projects at [dev-noyon.com](https://dev-noyon.vercel.app/portfolio)
 
 
 <h3 align="left">Connect with me:</h3>
