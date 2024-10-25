@@ -29,13 +29,25 @@
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Next/React/Express
 - 👨‍💻 &nbsp;Read more about my projects at [dev-noyon.com](https://dev-noyon.vercel.app/portfolio)
 
+<be>
+<h3 align="left">My Github stats:</h3>
 
-# My Github stats
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=noyon-podder&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Noyon Podder's GitHub stats" />
+    </td>
+    <td>
+      <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noyon-podder&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex">
- ![Noyon Podder's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyon-podder&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=noyon-podder&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact)
-</div>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noyon-podder&label=Profile%20views&color=0e75b6&style=flat" alt="noyon-podder" /> </p>
