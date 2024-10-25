@@ -30,8 +30,10 @@
 - 👨‍💻 &nbsp;Read more about my projects at [dev-noyon.com](https://dev-noyon.vercel.app/portfolio)
 
 
+# My Github stats
 
+![Noyon Podder's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyon-podder&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=noyon-podder&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noyon-podder&label=Profile%20views&color=0e75b6&style=flat" alt="noyon-podder" /> </p>
