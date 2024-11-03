@@ -3,27 +3,19 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-</p>
-<p align="left">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p>
 
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages & Tools</b>
 <br>
-<h3>Connect With Me</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,redux,firebase,tailwind,bootstrap,mongodb" />
+  </a>
+
+
+## 📪 **Get in touch**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noyon-podder/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noyon.podder7@gmail.com)
@@ -39,10 +31,10 @@
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Next/React/Express
 - 👨‍💻 &nbsp;Read more about my projects at [dev-noyon.com](https://dev-noyon.vercel.app/portfolio)
 
-<be>
-<h3 align="left">My Github stats:</h3>
 
-<table>
+## 📈 **Current Stats**
+
+<table align="center">
   <tr>
     <td>
       <!-- GitHub Stats Card -->
@@ -54,7 +46,7 @@
     </td>
   </tr>
 </table>
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noyon-podder&theme=tokyonight&title_color=3cb480&locale=en" alt="noyon-podder" /></p>
 
 
 
