@@ -42,8 +42,7 @@
     </td>
     <td>
       <!-- Top Languages Card -->
-     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noyon-podder&theme=tokyonight&title_color=3cb480&locale=en" alt="noyon-podder" /></p>
-    </td>
+        </td>
    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noyon-podder&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Top Languages" />
    </td>
